@@ -9,7 +9,7 @@ export default function Navbar() {
   pathname == '/'? pathname = "home": ""
   pathname = pathname.replace("/","")
   return (
-    <nav className='text-white p-5 flex justify-between fixed w-full z-10'>
+    <nav className='text-white p-5 flex justify-between fixed w-full z-10 backdrop-blur-sm border-b border-gray-100/5'>
           <h2 className='cursor-pointer'>Victor Cunha</h2>
 
         <ul className='flex gap-8  '>

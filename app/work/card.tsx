@@ -30,7 +30,7 @@ export default function Card(props: cardProps) {
           <p className='text-2xl font-thin text-[#E3E4E6]'>{props.description}</p>
           <div className='flex flex-col '>
             <span className='font-thin text-sm'>{props.category}</span>
-            <button className='border h-10 rounded-full max-w-[9rem] px-2 mt-4 flex items-center justify-around'
+            <button className='border h-10 rounded-full hover:w-[15rem] transition-all duration-150 w-[9rem] px-2 mt-4 flex items-center justify-around'
             onClick={() => handleButtonClick(props.link)}
             >Ver trabalho <IoIosArrowForward className='mt-1'/> </button>
           </div>
