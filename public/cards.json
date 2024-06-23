@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Project One",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "Web Development",
+    "link": "https://github.com/cunhajoao1"
+  },
+  {
+    "name": "Project Two",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Mobile App",
+    "link": "https://github.com/cunhajoao1"
+  },
+  {
+    "name": "Project Three",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "category": "Data Science",
+    "link": "https://github.com/cunhajoao1"
+  }
+]

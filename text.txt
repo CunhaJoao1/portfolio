@@ -1,0 +1,11 @@
+    Desenvolvimento Node.js: Além das tecnologias IBM, meu domínio no desenvolvimento Node.js é fundamental para a criação de sistemas backend escaláveis e robustos que se integram perfeitamente com as soluções da IBM. Essa combinação de tecnologias é essencial para entregar aplicativos de alto desempenho.
+    
+    Desenvolvimento de Chatbots com Watson Assistant: Como especialista em tecnologia IBM, criei chatbots usando o Watson Assistant. Esses chatbots são capazes de oferecer respostas inteligentes e interações personalizadas, melhorando significativamente a experiência do usuário em diversos setores.
+
+    Exploração de Dados com Watson Discovery: Minha expertise se estende ao uso do Watson Discovery, onde apliquei essa tecnologia para extrair informações valiosas de grandes conjuntos de dados. Isso permitiu a criação de sistemas de busca avançados, análise de conteúdo e descoberta de insights cruciais para a tomada de decisões estratégicas.
+
+    GIT: O controle de versão e colaboração de código são aspectos essenciais do desenvolvimento de software, e minha experiência com o GIT tem garantido a entrega eficaz de projetos em equipes multidisciplinares utilizando soluções como GitHub e Code Commit.
+
+    Arquitetura de Soluções: Tive experiência realizando desenho de soluções com os produtos da IBM Cloud como Watson Assistant, Discovery, Speech to Text, Watsonx.AI etc, garantindo que atendam aos requisitos de negócios de forma eficiente e escalável.
+
+    Pré-vendas Técnicas: Participo de reuniões comerciais onde faço a apresentação técnica onde colaboro com os clientes para demonstrar como as soluções da IBM podem resolver desafios específicos e proporcionar vantagens competitivas.
