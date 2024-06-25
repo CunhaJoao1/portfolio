@@ -30,8 +30,8 @@ span{
   @apply font-bold 
   
 }
-li{
-  @apply cursor-pointer font-bold bg-gradient-to-r from-[#BC3CD8] to-[#C54B8C] inline-block text-transparent bg-clip-text
+li p{
+  @apply cursor-pointer font-bold text-white
 }
 h1, h2, h3, h4, h5 , p, button, span, li{
   @apply font-inter

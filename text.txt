@@ -9,3 +9,6 @@
     Arquitetura de Soluções: Tive experiência realizando desenho de soluções com os produtos da IBM Cloud como Watson Assistant, Discovery, Speech to Text, Watsonx.AI etc, garantindo que atendam aos requisitos de negócios de forma eficiente e escalável.
 
     Pré-vendas Técnicas: Participo de reuniões comerciais onde faço a apresentação técnica onde colaboro com os clientes para demonstrar como as soluções da IBM podem resolver desafios específicos e proporcionar vantagens competitivas.
+
+
+    <Link href={`${item == 'HOME'? '/': item.toLowerCase()}`}>
